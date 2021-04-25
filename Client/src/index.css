@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+}
+#root {
+  height: 100%;
+}
+
+.MuiAppBar-colorPrimary {
+  background-color: #2196f3 !important;
+}

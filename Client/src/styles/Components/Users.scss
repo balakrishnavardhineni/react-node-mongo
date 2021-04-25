@@ -1,0 +1,29 @@
+.users-list-container {
+  height: 100%;
+  background: #f2f2f2;
+  overflow: hidden;
+  .users-list {
+    height: 100%;
+    width: 95%;
+    margin: 15px auto;
+  }
+  .MuiButton-containedPrimary {
+    margin: 15px;
+  }
+  .fetch-button {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .users-card-list {
+  }
+  .basic-card {
+    margin-bottom: 10px;
+  }
+  .MuiTypography-h6 {
+    font-size: 1.4rem !important;
+    font-weight: 600 !important;
+  }
+  .makeStyles-menuButton-2 {
+    margin-right: 0 !important;
+  }
+}
